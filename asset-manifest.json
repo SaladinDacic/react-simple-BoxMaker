@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-simple-BoxMaker/static/css/main.80d850aa.chunk.css",
+    "main.js": "/react-simple-BoxMaker/static/js/main.13764a91.chunk.js",
+    "main.js.map": "/react-simple-BoxMaker/static/js/main.13764a91.chunk.js.map",
+    "runtime-main.js": "/react-simple-BoxMaker/static/js/runtime-main.bf853833.js",
+    "runtime-main.js.map": "/react-simple-BoxMaker/static/js/runtime-main.bf853833.js.map",
+    "static/js/2.6011b0b5.chunk.js": "/react-simple-BoxMaker/static/js/2.6011b0b5.chunk.js",
+    "static/js/2.6011b0b5.chunk.js.map": "/react-simple-BoxMaker/static/js/2.6011b0b5.chunk.js.map",
+    "static/js/3.85ffc6a5.chunk.js": "/react-simple-BoxMaker/static/js/3.85ffc6a5.chunk.js",
+    "static/js/3.85ffc6a5.chunk.js.map": "/react-simple-BoxMaker/static/js/3.85ffc6a5.chunk.js.map",
+    "index.html": "/react-simple-BoxMaker/index.html",
+    "static/css/main.80d850aa.chunk.css.map": "/react-simple-BoxMaker/static/css/main.80d850aa.chunk.css.map",
+    "static/js/2.6011b0b5.chunk.js.LICENSE.txt": "/react-simple-BoxMaker/static/js/2.6011b0b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf853833.js",
+    "static/js/2.6011b0b5.chunk.js",
+    "static/css/main.80d850aa.chunk.css",
+    "static/js/main.13764a91.chunk.js"
+  ]
+}
